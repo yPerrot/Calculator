@@ -58,9 +58,6 @@ class App extends React.Component {
 		
 		if (equation.includes(value)) {
 			if ( (value === "x" || value === "/") && (this.state.isOnResult || this.state.equationString === "" || this.state.equationString.substr(-1) === "/")) return
-			// if ((this.state.isOnResult && value === "/") || (this.state.isOnResult && value === "x") ) return
-			// if ((this.state.equationString === "" && value === "/") || (this.state.equationString === "" && value === "x") ) return
-			// if ((this.state.equationString.substr(-1) === "/" && value === "/") || (this.state.equationString.substr(-1) === "x" && value === "x") ) return
 
 			if (this.state.isOnResult) {
 				this.setState({
