@@ -1,6 +1,6 @@
 # Claculator with React 
 
-This project is based on FreeCodeCampe [Calculator](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator) exercice.
+This project is based on FreeCodeCampe [Calculator](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator) exercice.  
 Style come from [Kevin Powell](https://www.youtube.com/watch?v=EuwzyB_FQNs&ab_channel=KevinPowell). 
 ## Install & Run
 
